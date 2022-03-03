@@ -61,3 +61,10 @@
 
 - This script changes the group owner to school for the file hello
 
+
+# Advanced Section
+
+## 14. Owner and group
+
+- This script changes the owner to `vincent` and the group owner to `staff` for all the files and directories in the working directory
+

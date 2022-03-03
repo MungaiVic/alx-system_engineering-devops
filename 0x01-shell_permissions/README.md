@@ -8,3 +8,7 @@
 
 - This script prints out the effective username of the current user
 
+## 2. Groups
+
+- This script prints out all the groups the current user is part of.
+

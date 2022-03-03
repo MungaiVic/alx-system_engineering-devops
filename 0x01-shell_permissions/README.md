@@ -80,3 +80,5 @@
 
 ## 17. Star Wars
 
+- This script plays the Star Wars IV episode in the terminal
+

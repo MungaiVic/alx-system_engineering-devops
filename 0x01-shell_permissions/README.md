@@ -20,3 +20,7 @@
 
 - This script creates and empty file called `hello`
 
+## 5. Execute
+
+- This script adds execute permission to the owner of the file `hello`
+

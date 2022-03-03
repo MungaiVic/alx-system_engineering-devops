@@ -16,3 +16,7 @@
 
 - This script changes the owner of the file `hello` to the user `betty`
 
+## 4. Empty!
+
+- This script creates and empty file called `hello`
+

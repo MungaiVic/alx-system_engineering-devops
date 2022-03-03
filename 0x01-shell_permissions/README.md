@@ -73,3 +73,10 @@
 
 - This script changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively.
 
+
+## 16. If only
+
+- This script changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`
+
+## 17. Star Wars
+

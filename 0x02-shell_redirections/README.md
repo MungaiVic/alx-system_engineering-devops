@@ -15,4 +15,9 @@
 - This script displays the content of the `/etc/passwd` file
 - Script name: `2-hellofile`
 
+### 3. What about 2?
+
+- This script displays the contents of `/etc/passwd` and `/etc/hosts`
+- Script name: `3-twofiles`
+
 

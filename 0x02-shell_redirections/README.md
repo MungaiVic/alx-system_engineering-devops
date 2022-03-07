@@ -20,4 +20,9 @@
 - This script displays the contents of `/etc/passwd` and `/etc/hosts`
 - Script name: `3-twofiles`
 
+### 4. Last lines of a file
+
+- This script displays the last 10 lines of `/etc/passwd`
+- Script name: `4-lastlines`
+
 

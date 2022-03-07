@@ -127,4 +127,9 @@
 - This script lists all fies with a .gif extension in the current directory and all its sub-directories
 - Script name: `101-gifs`
 
+### 25. Acrostic
+
+- This script decodes acrostics that use the first letter of each line
+- Script name: `102-acrostic`
+
 

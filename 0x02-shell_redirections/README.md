@@ -65,4 +65,12 @@
 - This script displays the 10 newest files in the current directory
 - Script name: `12-newest_files`
 
+### 13. Being unique is better than being perfect
 
+- This script takes a list of words as input and prints only words that appear exactly once
+- Script name: 13-unique
+
+### 14. It must be in that file
+
+- This script displays lines containing the pattern "root" from the file `/etc/passwd`
+- Script name: 14-findthatword

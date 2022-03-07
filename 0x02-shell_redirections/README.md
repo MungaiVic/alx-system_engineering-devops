@@ -68,26 +68,31 @@
 ### 13. Being unique is better than being perfect
 
 - This script takes a list of words as input and prints only words that appear exactly once
-- Script name: 13-unique
+- Script name: `13-unique`
 
 ### 14. It must be in that file
 
 - This script displays lines containing the pattern "root" from the file `/etc/passwd`
-- Script name: 14-findthatword
+- Script name: `14-findthatword`
 
 ### 15. Count that word
 
 - This script displays the number of lines that contain the pattern "bin" in the file /etc/passwd
-- Script name: 15-countthatword
+- Script name: `15-countthatword`
 
 ### 16. What's next?
 
 - This script displays the lines containint the pattern "root" and 3 lines after them in the file `/etc/passwd`
-- Script name: 16-whatsnext
+- Script name: `16-whatsnext`
 
 ### 17. I hate bins
 
 - This script displays all lines in the file `/etc/passwd` that do not contain the pattern "bin"
 - Script: `17-hidethisword`
+
+### 18. Letters only please
+
+- This script displays all lines of the file `/etc/ssh/sshd_config` starting with a letter.
+- Script name: `18-letteronly`
 
 

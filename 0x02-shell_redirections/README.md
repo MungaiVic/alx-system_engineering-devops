@@ -25,4 +25,9 @@
 - This script displays the last 10 lines of `/etc/passwd`
 - Script name: `4-lastlines`
 
+### 5. I'd prefer the first ones actually
+
+- This script displays the first 10 lines of `/etc/passwd`
+- Script name: 5-firstlines
+
 

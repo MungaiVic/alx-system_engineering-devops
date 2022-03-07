@@ -10,3 +10,9 @@
 
 - This script prints out `"(Ôo)'`
 
+### 2. Let's display a file
+
+- This script displays the content of the `/etc/passwd` file
+- Script name: `2-hellofile`
+
+

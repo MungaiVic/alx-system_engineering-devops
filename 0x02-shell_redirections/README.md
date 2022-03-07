@@ -50,4 +50,9 @@
 - This script duplicates the last line of the file `iacta`
 - Script name: `9-duplicate_last_line`
 
+### No more javascript
+
+- This scripts deletes all regular files with a `.js` extension in the current directory and all its subfolders
+- Script name: `10-no_more_js`
+
 

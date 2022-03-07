@@ -105,4 +105,9 @@
 - This script removes all leters `c` and `C` from input
 - Script name: `20-hiago`
 
+### 21. esreveR
+
+- This script reverses its input
+- Script name: `21-reverse`
+
 

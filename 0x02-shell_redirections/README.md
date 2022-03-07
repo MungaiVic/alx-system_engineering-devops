@@ -35,4 +35,7 @@
 - This script displays the third line of the file `iacta`
 - Script name: 6-third_line
 
+### 7. It is a good file that cuts iron without making a noise
 
+- This script creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line
+- Script name: 7-file

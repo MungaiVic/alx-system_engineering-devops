@@ -50,9 +50,14 @@
 - This script duplicates the last line of the file `iacta`
 - Script name: `9-duplicate_last_line`
 
-### No more javascript
+### 10. No more javascript
 
 - This scripts deletes all regular files with a `.js` extension in the current directory and all its subfolders
 - Script name: `10-no_more_js`
+
+### 11. Don't just count your directories, make your directories count
+
+- This script counts the number of directories and subdirectories in the current directory
+- Script name: `11-directories`
 
 

@@ -122,4 +122,9 @@
 - This script finds all empty files and directories in the current directory and all sub-directories
 - Script name: `100-empty_casks`
 
+### 24. A gif is worth ten thousand words
+
+- This script lists all fies with a .gif extension in the current directory and all its sub-directories
+- Script name: `101-gifs`
+
 

@@ -98,6 +98,11 @@
 ### 19. A to Z
 
 - This script replaces all characters A and c from input to Z and e respectively.
-- Script name: 19-AZ
+- Script name: `19-AZ`
+
+### 20. Without C, you would live in hiago
+
+- This script removes all leters `c` and `C` from input
+- Script name: `20-hiago`
 
 

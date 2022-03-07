@@ -115,4 +115,11 @@
 - This script displays all users and their home directories, sorted by users
 - Script name: `22-users_and_homes`
 
+## Advanced Tasks
+
+### 23. Empty casks make the most noise
+
+- This script finds all empty files and directories in the current directory and all sub-directories
+- Script name: `100-empty_casks`
+
 

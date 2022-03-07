@@ -95,4 +95,9 @@
 - This script displays all lines of the file `/etc/ssh/sshd_config` starting with a letter.
 - Script name: `18-letteronly`
 
+### 19. A to Z
+
+- This script replaces all characters A and c from input to Z and e respectively.
+- Script name: 19-AZ
+
 

@@ -60,4 +60,9 @@
 - This script counts the number of directories and subdirectories in the current directory
 - Script name: `11-directories`
 
+### 12. What's new
+
+- This script displays the 10 newest files in the current directory
+- Script name: `12-newest_files`
+
 

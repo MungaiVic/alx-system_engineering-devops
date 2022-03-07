@@ -85,4 +85,9 @@
 - This script displays the lines containint the pattern "root" and 3 lines after them in the file `/etc/passwd`
 - Script name: 16-whatsnext
 
+### 17. I hate bins
+
+- This script displays all lines in the file `/etc/passwd` that do not contain the pattern "bin"
+- Script: `17-hidethisword`
+
 

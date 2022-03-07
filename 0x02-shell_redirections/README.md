@@ -74,3 +74,15 @@
 
 - This script displays lines containing the pattern "root" from the file `/etc/passwd`
 - Script name: 14-findthatword
+
+### 15. Count that word
+
+- This script displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+- Script name: 15-countthatword
+
+### 16. What's next?
+
+- This script displays the lines containint the pattern "root" and 3 lines after them in the file `/etc/passwd`
+- Script name: 16-whatsnext
+
+

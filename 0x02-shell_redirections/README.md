@@ -28,17 +28,17 @@
 ### 5. I'd prefer the first ones actually
 
 - This script displays the first 10 lines of `/etc/passwd`
-- Script name: 5-firstlines
+- Script name: `5-firstlines`
 
 ### 6. Line #2
 
 - This script displays the third line of the file `iacta`
-- Script name: 6-third_line
+- Script name: `6-third_line`
 
 ### 7. It is a good file that cuts iron without making a noise
 
 - This script creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line
-- Script name: 7-file
+- Script name: `7-file`
 
 ### 8. Save current state of directory
 
@@ -109,5 +109,10 @@
 
 - This script reverses its input
 - Script name: `21-reverse`
+
+### 22. DJ Cut Killer
+
+- This script displays all users and their home directories, sorted by users
+- Script name: `22-users_and_homes`
 
 

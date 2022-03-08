@@ -68,4 +68,8 @@
 
 - This script converts a number from base 10 to base 16. The number is stored in the environment variable `DECIMAL`
 
+### 15. Everyone is a proponent of strong encryption
+
+- This script encodes and decodes text using the ROT13 encryption. ASCII is assumed
+
 

@@ -52,4 +52,8 @@
 
 - This script converts a number from base 2 to base 10
 
+## 12. Combination
+
+- This script prints all possible combinations of two letters except `oo` in alpha ordering
+
 

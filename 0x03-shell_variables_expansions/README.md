@@ -72,4 +72,8 @@
 
 - This script encodes and decodes text using the ROT13 encryption. ASCII is assumed
 
+### 16. The eggs of the brood need to be an odd number
+
+- This script prints lines in an odd fashion
+
 

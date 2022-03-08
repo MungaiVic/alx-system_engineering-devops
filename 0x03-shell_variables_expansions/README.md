@@ -14,6 +14,7 @@
 
 ## 3. If the path be beautiful, let us not ask where it leads
 
+- This script counts the number of directories in the `PATH`
 
 ## 4. Global variables
 

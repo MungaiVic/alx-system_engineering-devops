@@ -48,4 +48,8 @@
 
  - This script displays the result of `BREATH` to the power `LOVE`
 
+## 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+
+- This script converts a number from base 2 to base 10
+
 

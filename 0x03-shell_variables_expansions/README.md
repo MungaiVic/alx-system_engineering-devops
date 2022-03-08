@@ -56,4 +56,8 @@
 
 - This script prints all possible combinations of two letters except `oo` in alpha ordering
 
+## 13. Floats
+
+- This script prints a number with two decimal places, followed by a line
+
 

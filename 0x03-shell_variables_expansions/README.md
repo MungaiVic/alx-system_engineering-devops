@@ -18,5 +18,6 @@
 
 ## 4. Global variables
 
+- This script prints global variables
 
 ## 5. Local variables

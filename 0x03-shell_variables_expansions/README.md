@@ -30,4 +30,9 @@
 - This script creates a local variable names `BEST` with the value `School`
 
 
+## 7. Global variable
+
+- This script creates a new global variable `BEST` : `School`
+
+
 

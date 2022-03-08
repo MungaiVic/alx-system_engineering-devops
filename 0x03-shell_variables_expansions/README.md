@@ -21,3 +21,13 @@
 - This script prints global variables
 
 ## 5. Local variables
+
+- This script prints all local and environment variables as well as functions
+
+
+## 6. Local variable
+
+- This script creates a local variable names `BEST` with the value `School`
+
+
+

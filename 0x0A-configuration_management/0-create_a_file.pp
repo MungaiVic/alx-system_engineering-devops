@@ -1,8 +1,7 @@
-file { '/tmp/school':
-     ensure  => symlink,
-     target  => '/tmp/school',
-     owner   => 'www-data',
-     group   => 'www-data',
-     mode    => '0744',
-     content => 'I love Puppet'
+file { 'puppet':
+        path    => '/tmp/school',
+        mode    => '0744',
+        owner   => 'www-data',
+        group   => 'www-data',
+        content => 'I love Puppet'
 }

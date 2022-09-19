@@ -1,10 +1,7 @@
-#!/usr/bin/env bash
-file_line { 'Turn off passwd auth':
-      path => '/etc/ssh/ssh_config',
-      line => 'Regexes Found',
-}
-file_line { 'Declare identity file':
-      path => '/etc/ssh/ssh_config',
-      line => '	IdentityFile ~/.ssh/school',
+# Changes SSH config file
+exec { 'ssh task':
+  path    => 'usr/bin:/bin',
+  command => 'echo "    IdentityFile ~/.ssh/school\n    PasswordAuthentication no" >> /etc/ssh/ssh_config',
+  returns => [0,1],
 }
 
